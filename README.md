@@ -59,7 +59,7 @@ Government Tool Room and Training Centre, Bengaluru | 2019-2022
 ### Connect With Me
 <p align="left">
   <a href="mailto:shashankgowdru048@gmail.com"><img src="https://img.shields.io/badge/Email-shashankgowdru048%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/shashank-ai-ml/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Shashank_Gowdru-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/shashank-ai-ml/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Shashank_S-0077B5?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/Shashank-48s" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shashank--48s-181717?style=flat-square&logo=github"></a>
 </p>
 
