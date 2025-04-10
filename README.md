@@ -87,7 +87,6 @@ graph TD
   </tr>
 </table>
 
-### Data Analysis Quote
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=3000&pause=500&color=2C698D&center=true&vCenter=true&width=500&height=100&lines=In+God+we+trust%2C;all+others+must+bring+data.;+-+W.+Edwards+Deming;Data+is+not+information%2C;information+is+not+knowledge.;+-+Clifford+Stoll;Without+data%2C+you're+just;another+person+with+an+opinion.;+-+W.+Edwards+Deming" alt="Data Analysis Quotes">
 </div>
