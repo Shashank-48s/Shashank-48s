@@ -16,39 +16,6 @@ I transform complex datasets into actionable business insights using advanced an
 
 ---
 
-### Featured Projects
-
-#### Healthcare Analytics: Predictive Modeling for Diabetes
-- Built predictive model with 85% accuracy using Python and Decision Trees
-- Processed 1,000+ patient records, reducing false positives by 30%
-
-#### E-Commerce Analytics: Customer Behavior Analysis (Blinkit)
-- Analyzed 500+ customer transactions using SQL to optimize inventory
-- Created visualization dashboards that improved customer engagement by 15%
-
-#### Financial Services: Customer Churn Prevention
-- Developed automated Excel dashboards reducing reporting time by 60%
-- Implemented data-driven strategies decreasing churn rate by 20%
-
----
-
-### Professional Experience
-
-**Machine Learning and AI Development Intern**  
-*Karunadu Technologies Private Limited, Bengaluru* | Oct 2023 - Nov 2023
-- Enhanced prediction model accuracy by 30% using Python-Django
-- Created Power BI dashboards reducing report generation time by 50%
-
----
-
-### Education & Certifications
-
-**Bachelor of Engineering, Information Science**  
-HKBK College of Engineering, Bengaluru | 2023-2025
-
-**Diploma in Tool and Die Making**  
-Government Tool Room and Training Centre, Bengaluru | 2019-2022
-
 **Certifications:**
 - Machine Learning and AI Development (Karunadu Technologies)
 - Data Analysis and Visualization (Accenture)
